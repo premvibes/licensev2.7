@@ -1,11 +1,1 @@
-[
-     {
-       "token": "abc123...",
-       "user_name": "John Doe",
-       "created": "2024-01-01",
-       "exp": "2025-01-01",
-       "max_uses": 1,
-       "used_count": 0,
-       "devices": []
-     }
-   ]
+[]
