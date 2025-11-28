@@ -1,1 +1,11 @@
-[]
+[
+  {
+  "token": "eyJleHAiOjE3NjY5NTc3NTI1MTQsIm1heF91c2VzIjoxLCJ1c2VyIjoicHJlbSJ9.7b9c01855c7fb736c941a23022b7d2dd97db42fa02ff4123385f6a7612186123",
+  "created": "2025-11-28",
+  "exp": "2025-12-28",
+  "max_uses": 1,
+  "used_count": 0,
+  "devices": [],
+  "user_name": "@premvibes"
+}
+]
