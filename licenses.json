@@ -24,8 +24,10 @@
     "created": "2025-11-29",
     "exp": "2026-11-29",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": [],
+    "used_count": 1,
+    "devices": [
+      "b8c937cde64c331c6b467d40b50c7c722cbcebf9a243821bef821f8e7533c44a"
+    ],
     "user_name": "@premvibes"
   }
 ]
