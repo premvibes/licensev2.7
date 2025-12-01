@@ -51,5 +51,14 @@
         "used_count": 0,
         "devices": [],
         "user_name": "@Agent_7x"
+    },
+    {
+        "token": "eyJleHAiOjE3NjU4NTA2NTkwMDAsIm1heF91c2VzIjoxLCJ1c2VyIjoiVVRTTzEyMzEifQ.40f5e5a6daa18b2e8381e72d412834f47cae40f8f2c7e0123f59d2244f437d06",
+        "created": "2025-12-01",
+        "exp": "2025-12-16",
+        "max_uses": 1,
+        "used_count": 0,
+        "devices": [],
+        "user_name": "@UTSO1231"
     }
 ]
